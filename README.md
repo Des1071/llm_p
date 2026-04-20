@@ -1,21 +1,6 @@
 # 🤖 LLM-P: Защищённое API для работы с большими языковыми моделями
 
-<div align="center">
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.112+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai/)
-[![uv](https://img.shields.io/badge/uv-Быстрый%20менеджер%20пакетов-6E4B8B?style=for-the-badge)](https://github.com/astral-sh/uv)
-
-**Защищённый API-сервис для взаимодействия с большими языковыми моделями через OpenRouter**
-
-[Возможности](#-возможности) • [Быстрый старт](#-быстрый-старт) • [Документация API](#-документация-api) • [Архитектура](#-архитектура) • [Разработка](#-разработка)
-
-</div>
-
----
 
 ## 📋 Обзор проекта
 
